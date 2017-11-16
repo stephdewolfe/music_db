@@ -42,6 +42,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 
 gem 'annotate'
+gem 'awesome_print'
 
 
 
