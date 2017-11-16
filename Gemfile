@@ -41,6 +41,9 @@ gem 'font-awesome-rails'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 
+gem 'annotate'
+
+
 
 
 group :development, :test do
